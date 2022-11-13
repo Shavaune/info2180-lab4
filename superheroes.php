@@ -1,6 +1,6 @@
 <?php
 
-$superheroes = [
+$ superheroes = [
   [
       "id" => 1,
       "name" => "Steve Rogers",
